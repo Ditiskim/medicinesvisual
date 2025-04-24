@@ -1,0 +1,17 @@
+[
+    { "code": "A", "name": "Maag-darmstelsel en stofwisseling" },
+    { "code": "B", "name": "Bloed en bloedvormende organen" },
+    { "code": "C", "name": "Hart en vaatstelsel" },
+    { "code": "D", "name": "Dermatica" },
+    { "code": "G", "name": "Urogenitale stelsel en geslachtshormonen" },
+    { "code": "H", "name": "Systemische hormonale preparaten, exclusief geslachtshormonen en insulines" },
+    { "code": "J", "name": "Anti-infectiemiddelen voor systemisch gebruik" },
+    { "code": "L", "name": "Antineoplastische en immunomodulerende middelen" },
+    { "code": "M", "name": "Spierstelsel en skelet" },
+    { "code": "N", "name": "Zenuwstelsel" },
+    { "code": "P", "name": "Antiparasitaire producten, insecticiden en afweermiddelen" },
+    { "code": "R", "name": "Ademhalingsstelsel" },
+    { "code": "S", "name": "Zintuigen" },
+    { "code": "V", "name": "Diversen" }
+  ]
+  
